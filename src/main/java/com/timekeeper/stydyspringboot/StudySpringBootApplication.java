@@ -1,4 +1,4 @@
-package com.timekeeper.learnspringboot;
+package com.timekeeper.stydyspringboot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
