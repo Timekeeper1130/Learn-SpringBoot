@@ -9,12 +9,12 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.timekeeper</groupId>
-    <artifactId>Learn-SpringBoot</artifactId>
+    <artifactId>Study-SpringBoot</artifactId>
     <version>0.0.1</version>
-    <name>Learn-SpringBoot</name>
+    <name>Study-SpringBoot</name>
     <description>这是一个自己学习使用Springboot源码的项目</description>
     <properties>
-        <java.version>1.8</java.version>
+        <java.version>17</java.version>
     </properties>
     <dependencies>
         <dependency>
